@@ -71,7 +71,7 @@ project_root/
 | Instrument | Period            | Trades | Start Balance | End Balance | Avg Annual Return | Best Year |
 |------------|-------------------|--------|---------------|-------------|-------------------|-----------|
 | Sberbank   | 2020Q4–2025Q2     | 284    | $5,500        | $21,800     | 65% ($3,600/year) | 2022 (+$6,000) |
-| Gazprom    | 2021Q1–2025Q2     | 250    | $5,500        | $5,900      | 26% ($1,450/year) in profitable years | 2022 (−$3,500) |
+| Gazprom    | 2021Q1–2025Q2     | 250    | $5,500        | $5,900      | 26% ($1,450/year) in profitable years | 2021 (+$2,150) |
 
 ### Sberbank Futures (Q4 2020 — Q2 2025)
 ![Sberbank Futures Trading Results](docs/sber_futures.png)
